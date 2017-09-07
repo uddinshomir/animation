@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+
+
+
+#myContainer {
+        width: 100%; height: 1000px;
+        position: absolute;
+        background-image:url("https://media.giphy.com/media/26n6G8lRMOrYC6rFS/giphy.gif");
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+    
+    #myAnimation {
+        width: 150px; height: 150px;
+        position: absolute;
+        background-image: url("https://media.giphy.com/media/E9y2qEFv2DOAU/giphy.gif");
+        background-repeat: no-repeat;
+        background-size: contain;
+        left:0;
+        top: 380px;
+    }
+
+#sun {
+    width: 500px; height: 500px;
+    position: absolute;
+    background-image: url("https://media.giphy.com/media/euHdEBx9AOZYQ/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 5%;
+}
+
+#earth {
+    width: 350px; height: 350px;
+    position: absolute;
+    background-image: url("https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 60%;
+    top:45%;
+}
+
+#moon {
+    width: 200px; height: 200px;
+    position: absolute;
+    background-image:url(https://media.giphy.com/media/6Ybo61KCsfGs8/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 40%;
+    top: 35%;
+    
+}
+   
